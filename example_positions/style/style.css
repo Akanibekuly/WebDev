@@ -1,0 +1,26 @@
+.block{
+    width: 100px;
+    height: 100px;
+    margin: 10px;
+    background-color: black;
+    color: #fff;
+    text-align: center;
+    font-size: 20px;
+}
+
+.pos-relative{
+    position: relative;
+    top: 20px;
+    left: 30px;
+}
+
+.pos-absolute{
+    position: absolute;
+}
+
+.absolute-container{
+    width: 500px;
+    height: 500px;
+    padding: 50px;
+    background-color: orange;
+}

@@ -1,0 +1,18 @@
+/* .list li:last-child a {
+    color: red;
+}
+
+.list li:first-child a {
+    color: orange;
+} */
+
+/* .list li:nth-child(even) a {
+    color: blueviolet;
+} */
+
+/* .list a:hover{
+    color: brown;
+} */
+/* .list li:not(.not-example) a{
+    color: orange;
+} */
